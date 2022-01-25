@@ -13,7 +13,7 @@ public class UserDetailsApplication {
 
 		SpringApplication.run(UserDetailsApplication.class, args);
 	}
-//THis is test for Git Push and auto Jenkins kikc off
+//THis is test for Git Push and auto Jenkins kikc off2
 	@Bean
 	@LoadBalanced
 	public RestTemplate restTemplate(){
